@@ -1,0 +1,33 @@
+body{
+	background-color:pink;
+}
+
+h1{
+	text-align:center;
+	color:red;
+	font-size:28px;
+}
+
+.a{
+	margin:0 auto;
+	width:400px;
+	height:300px;
+}
+.b{
+	width:400px;
+	height:300px;
+}
+.c{
+	width:400px;
+	height:300px;
+}
+
+.d{
+	width:400px;
+	height:300px;
+}
+
+.e{
+	width:400px;
+	height:300px;
+}
